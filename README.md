@@ -1,7 +1,6 @@
 # DroughtResearchML
 
-Author: Tom Qiu
-Credits: DroughtED (Christoph Minixhofer, Mark Swan, Calum McMeekin, Pavlos Andreadis)
+<p>Author: Tom Qiu <br>Credits: DroughtED (Christoph Minixhofer, Mark Swan, Calum McMeekin, Pavlos Andreadis)</p>
 
 ## Purpose
 
